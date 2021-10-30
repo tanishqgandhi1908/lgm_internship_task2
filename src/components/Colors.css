@@ -1,0 +1,33 @@
+.team-card-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 8%;
+    float: left;
+    width: 100%;
+    margin-left: 0%;
+  }
+  
+  
+  .card-image {
+    margin-left: 5%;
+  }
+  .card-image img {
+    margin-left: 15%;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+  }
+  .team-container-inside {
+    padding: 0 35px;
+  }
+  
+  h2 {
+    margin-left: 25%;
+    height: 50px;
+  }
+  .card-title {
+    color: grey;
+    margin-left: 8%;
+  }
+  
